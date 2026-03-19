@@ -1,12 +1,3 @@
-**STACK DE TECNOLOGIAS**
+# Ambiente de homologação ( testes )
 
-Backend: A definir
-Frontend: A definir
-Bacon de Dados: A definir
-
-**FUNÇÕES DO SQUAD**
-
-Product Owner: Dornellas
-Scrum Master: Kauê
-Teach Lead: Dias
-Q&A: Olavo, Pedero Gabriel, Levi
+Só suba o código pronto para ser testado
